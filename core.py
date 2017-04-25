@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import requests, json
-tuling_key = "c697910a18b540d4a63838871ee9a671"
+tuling_key = "cdd4f8362ad24ab5aae007d97d6fb35f"
 
 def auto_reply(msg, uid):
     print 'Input message -->', msg
